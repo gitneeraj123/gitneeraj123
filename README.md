@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Neeraj Bhayal 👋
 
-<!--
-**gitneeraj123/gitneeraj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA @ NIT Trichy | Software Engineering | AI/ML | Generative AI
 
-Here are some ideas to get you started:
+I am an MCA student at NIT Trichy with a B.Tech background in Mechanical
+Engineering, interested in software engineering, AI/ML, Generative AI,
+data-driven applications, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work With
+
+- Programming: C++, Python, JavaScript, SQL
+- AI/ML: Scikit-learn, LangGraph, RAG, pgvector, Pandas, NumPy
+- Backend: FastAPI, Node.js, Express.js
+- Frontend: React
+- Databases: PostgreSQL, MongoDB
+- Tools: Git, Docker, CI/CD
+
+## 🔨 Featured Projects
+
+### Enterprise Knowledge & Analytics Assistant
+Enterprise AI assistant combining RAG and text-to-SQL for business data
+and policy documents.
+
+### Credit Card Fraud Detection & Analytics
+ML pipeline for 284K+ transactions with data-quality validation,
+SMOTE-based imbalance handling and model evaluation.
+
+### Quiz & Assessment Platform
+MERN-based examination platform with AI-assisted question generation,
+authentication, security controls and automated quiz management.
+
+## 🧩 Problem Solving
+
+- 1000+ LeetCode problems
+- 1700+ contest rating
+- AIR 7 in NIMCET 2024
+
+## 📫 Interests
+
+Software Engineering • AI/GenAI • Data Analytics • Problem Solving
